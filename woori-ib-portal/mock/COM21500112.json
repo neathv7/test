@@ -1,0 +1,105 @@
+{
+	"header": {
+		"result": true,
+		"error_code": "",
+		"error_text": "",
+		"trcode": "COM21500112",
+		"trcodeName": "RetrieveIBLinkScreenList",
+		"info_text": ""
+	},
+	"body": {
+		"list" : [ 
+			 {
+				"menuID" : "0",
+				"menuName" : "Root",
+				"parentMenuID" : "",
+				"menuLevel" : "0",
+				"webPageURL" : "",
+				"screenID" : "",
+				"screenName" : ""
+                },
+			{
+				"menuID" : "Menu0001",
+				"menuName" : "My Page",
+				"parentMenuID" : "0",
+				"menuLevel" : "1",
+				"webPageURL" : "http://abcd.com",
+				"screenID" : "",
+				"screenName" : ""
+			},
+			{
+				"menuID" : "Menu0002",
+				"parentMenuID" : "0",
+				"menuName" : "My Authorization Request",
+				"menuLevel" : "2",
+				"webPageURL" : "",
+				"screenID" : "CIB201001SC00",
+				"screenName" : "IB Subscription List"
+			},
+			{
+				"menuID" : "Menu0003",
+				"parentMenuID" : "0",
+				"menuName" : "My To Do Authorization",
+				"menuLevel" : "2",
+				"webPageURL" : "",
+				"screenID" : "",
+				"screenName" : ""
+			},
+			{
+				"menuID" : "Menu0004",
+				"parentMenuID" : "0",
+				"menuName" : "Content & Policy Management",
+				"menuLevel" : "2",
+				"webPageURL" : "",
+				"screenID" : "",
+				"screenName" : ""
+			},
+			{
+				"menuID" : "Menu0005",
+				"parentMenuID" : "0",
+				"menuName" : "News & Event",
+				"menuLevel" : "2",
+				"webPageURL" : "",
+				"screenID" : "",
+				"screenName" : ""
+			},
+			{
+				"menuID" : "Menu0006",
+				"parentMenuID" : "0",
+				"menuName" : "Promotion",
+				"menuLevel" : "2",
+				"webPageURL" : "",
+				"screenID" : "",
+				"screenName" : ""
+			},
+			{
+				"menuID" : "Menu0007",
+				"parentMenuID" : "0",
+				"menuName" : "FAQ",
+				"menuLevel" : "2",
+				"webPageURL" : "",
+				"screenID" : "",
+				"screenName" : ""
+			},
+			{
+				"menuID" : "Menu008",
+				"parentMenuID" : "Menu0007",
+				"menuName" : "FAQ List",
+				"menuLevel" : "2",
+				"webPageURL" : "",
+				"screenID" : "",
+				"screenName" : ""
+			},
+			{
+				"menuID" : "Menu009",
+				"parentMenuID" : "Menu0007",
+				"menuName" : "FAQ Category",
+				"menuLevel" : "2",
+				"webPageURL" : "",
+				"screenID" : "",
+				"screenName" : ""
+			}
+		],
+		"totalCount" : 9
+	}
+}

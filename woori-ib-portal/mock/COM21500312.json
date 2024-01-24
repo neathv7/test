@@ -1,0 +1,23 @@
+{
+	"header": {
+		"result": true,
+		"error_code": "",
+		"error_text": "",
+		"trcode": "COM21500312",
+		"trcodeName": "RetrieveIBScreenInfoDetail"
+	},
+	"body": {
+		"webPageURL" : "",
+		"screenID" : "COM215003sc00",
+		"screenStatusCode" : "01",
+		"screenTypeCode": "01",
+		"menuID" : "MNU001",
+		"screenName" : "IB Screen List",
+		"menuName" : "COM",
+		"businessCategoryCode": "11",
+		"firstRegisterTellerName": "",
+		"firstRegisterTellerID" : "",
+		"lastRegisterTellerName" : "",
+		"lastChangeTellerID" : ""
+	}
+}

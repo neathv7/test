@@ -1,0 +1,44 @@
+{
+    "header": {
+        "result": true,
+        "error_code": "",
+        "error_text": "",
+        "trcode": "APM20200114",
+        "trcodeName": "APM20400111"
+    },
+    "body": {
+        "list": [
+            {
+                "customerNo": "001010",
+                "masterUserID": "ms002",
+                "masterUserName": "Buon Pheaktra",
+                "authorizationLinePolicyTypeCode": "02",
+                "customerName": "Ly Chansocheata",
+                "authLineCount": 0,
+                "subscriptionApprovalTypeCode": "01",
+                "authorizationLineAssignTypeCode": "02"
+            },
+            {
+                "customerNo": "001010",
+                "masterUserID": "ms002",
+                "masterUserName": "Buon Pheaktra",
+                "authorizationLinePolicyTypeCode": "02",
+                "customerName": "Ly Chansocheata",
+                "authLineCount": 0,
+                "subscriptionApprovalTypeCode": "01",
+                "authorizationLineAssignTypeCode": "02"
+            },
+            {
+                "customerNo": "001010",
+                "masterUserID": "ms002",
+                "masterUserName": "Buon Pheaktra",
+                "authorizationLinePolicyTypeCode": "02",
+                "customerName": "Ly Chansocheata",
+                "authLineCount": 0,
+                "subscriptionApprovalTypeCode": "01",
+                "authorizationLineAssignTypeCode": "02"
+            }
+        ],
+        "totalCount": 1
+    }
+}

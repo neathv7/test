@@ -1,0 +1,80 @@
+{
+	"header": {
+		"result": true,
+		"error_code": "",
+		"error_text": "",
+		"trcode": "COM20500111",
+		"trcodeName": "RetrievePortalMenuInfoList",
+		"info_text": ""
+	},
+	"body": {
+	    "list": [
+			{
+			  "menuName": "Root",
+			  "menuStatusCode": "01",
+			  "menuLevel": "3",
+			  "parentMenuID": "",
+			  "menuDisplayOrder": "0",
+			  "menuID": "0"
+			},
+			{
+			  "menuName": "CARD-SUB-ONE",
+			  "menuStatusCode": "01",
+			  "menuLevel": "3",
+			  "parentMenuID": "4234234",
+			  "menuDisplayOrder": "0",
+			  "menuID": "46456"
+			},
+			{
+			  "menuName": "CARD",
+			  "menuStatusCode": "01",
+			  "menuLevel": "3",
+			  "parentMenuID": "0",
+			  "menuDisplayOrder": "0",
+			  "menuID": "4234234"
+			},
+			{
+				"menuName": "CARD-Parent",
+				"menuStatusCode": "01",
+				"menuLevel": "3",
+				"parentMenuID": "0",
+				"menuDisplayOrder": "0",
+				"menuID": "4234234"
+			},
+			{
+				"menuName": "CARD-SUB-TWO",
+				"menuStatusCode": "01",
+				"menuLevel": "3",
+				"parentMenuID": "4234234",
+				"menuDisplayOrder": "0",
+				"menuID": "53534534"
+			},
+			{
+				"menuName": "CARD2-Info",
+				"menuStatusCode": "01",
+				"menuLevel": "3",
+				"parentMenuID": "53534534",
+				"menuDisplayOrder": "0",
+				"menuID": "4234667"
+			},
+			{
+				"menuName": "CARD2-Info-Update",
+				"menuStatusCode": "01",
+				"menuLevel": "3",
+				"parentMenuID": "53534534",
+				"menuDisplayOrder": "0",
+				"menuID": "4234667"
+			},
+			{
+				"menuName": "CARD mew",
+				"menuStatusCode": "01",
+				"menuLevel": "3",
+				"parentMenuID": "4234234",
+				"menuDisplayOrder": "0",
+				"menuID": "423423q4"
+			}
+			
+		  ],
+        "totalCount": 52
+    }
+}

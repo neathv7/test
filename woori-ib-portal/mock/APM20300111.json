@@ -1,0 +1,50 @@
+{
+    "header": {
+      "result": true,
+      "error_code": "",
+      "error_text": "",
+      "trcode": "APM20300111",
+      "trcodeName": "APM20300111"
+    },
+    "body": {
+      "list": [
+        {
+          "authorizationBizTypeCode1":"0124",
+          "authorizationBizTypeCode2": "1435",
+          "businessCommonStatusCode": "Credit",
+          "managerApprovalDescription": "Credit-I",
+          "authorizationBizTypeCode1Name": "Credit"
+        },
+        {
+            "authorizationBizTypeCode1":"2342",
+            "authorizationBizTypeCode2": "2344",
+            "businessCommonStatusCode": "Card",
+            "managerApprovalDescription": "Card-V",
+            "authorizationBizTypeCode1Name": "Credit"
+          },
+          {
+            "authorizationBizTypeCode1":"9384",
+            "authorizationBizTypeCode2": "2314",
+            "businessCommonStatusCode": "Subscription",
+            "managerApprovalDescription": "Subscription-I",
+            "authorizationBizTypeCode1Name": "Subscription"
+          },
+          {
+            "authorizationBizTypeCode1":"3463",
+            "authorizationBizTypeCode2": "4742",
+            "businessCommonStatusCode": "Credit",
+            "managerApprovalDescription": "Card-1",
+            "authorizationBizTypeCode1Name": "Credit"
+          },
+          {
+            "authorizationBizTypeCode1":"0124",
+            "authorizationBizTypeCode2": "5243",
+            "businessCommonStatusCode": "Credit",
+            "managerApprovalDescription": "Card-VI",
+            "authorizationBizTypeCode1Name": "Credit"
+          }
+    ],
+      "totalCount": 100
+    }
+  }
+  

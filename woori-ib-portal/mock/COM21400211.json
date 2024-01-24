@@ -1,0 +1,50 @@
+{
+    "header": {
+        "result": true,
+        "error_code": "",
+        "error_text": "",
+        "trcode": "COM21400211",
+        "trcodeName": "IB Service List"
+      },
+    "body": {
+        "list": [
+            {
+                "serviceID": "COM2140020",
+                "serviceIDDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab, perspiciatis!",
+                "serviceIDName": "Wealth management",
+                "transactionControlStatusCode": "Inactive"
+            },
+            {
+                "serviceID": "COM2140021",
+                "serviceIDDescription": "amet consectetur adipisicing elit. Ab, perspiciatis!",
+                "serviceIDName": "Debit & credit cards",
+                "transactionControlStatusCode": "Inactive"
+            },
+            {
+                "serviceID": "COM2140022",
+                "serviceIDDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab, perspiciatis!",
+                "serviceIDName": "Savings accounts",
+                "transactionControlStatusCode": "Inactive"
+            },
+            {
+                "serviceID": "COM2140023",
+                "serviceIDDescription": "consectetur adipisicing elit. Ab, perspiciatis!",
+                "serviceIDName": "Checking accounts",
+                "transactionControlStatusCode": "Delete"
+            },
+            {
+                "serviceID": "COM2140024",
+                "serviceIDDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab, perspiciatis!",
+                "serviceIDName": "Transfer",
+                "transactionControlStatusCode": "Delete"
+            },
+            {
+                "serviceID": "COM2140025",
+                "serviceIDDescription": "Lorem ipsum dolor sit, perspiciatis!",
+                "serviceIDName": "Account Inquiry",
+                "transactionControlStatusCode": "Active"
+            }
+        ],
+        "totalCount": 6
+    }
+}

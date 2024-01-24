@@ -1,0 +1,15 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon / 16 / Bar Graph" clip-path="url(#clip0_1020_12579)">
+<g id="Group">
+<path id="Vector" d="M2.2201 0.599609H1.6001C1.04781 0.599609 0.600098 1.04732 0.600098 1.59961V11.7696C0.600098 12.3219 1.04781 12.7696 1.6001 12.7696H2.2201C2.77238 12.7696 3.2201 12.3219 3.2201 11.7696V1.59961C3.2201 1.04732 2.77238 0.599609 2.2201 0.599609Z" stroke="white" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M14.3602 7.36914H13.7402C13.1879 7.36914 12.7402 7.81686 12.7402 8.36914V11.7691C12.7402 12.3214 13.1879 12.7691 13.7402 12.7691H14.3602C14.9125 12.7691 15.3602 12.3214 15.3602 11.7691V8.36914C15.3602 7.81686 14.9125 7.36914 14.3602 7.36914Z" stroke="white" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M0.640137 15.3994H15.4001" stroke="white" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M8.24988 3.55957H7.62988C7.0776 3.55957 6.62988 4.00729 6.62988 4.55957V11.7596C6.62988 12.3119 7.0776 12.7596 7.62988 12.7596H8.24988C8.80217 12.7596 9.24988 12.3119 9.24988 11.7596V4.55957C9.24988 4.00729 8.80217 3.55957 8.24988 3.55957Z" stroke="white" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1020_12579">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>

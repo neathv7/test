@@ -1,0 +1,61 @@
+{
+  "header": {
+    "error_code": "",
+    "error_text": "",
+    "id_token": "",
+    "info_text": "",
+    "login_session_id": "",
+    "message_version": "",
+    "result": true,
+    "trcode": "COM20300211",
+    "trcodeName": "employeeInfoListRetrieve"
+  },
+
+  "body": {
+    "totalCount": 3,
+    "list": [
+      {
+        "no": "1",
+        "branchCode": "0010 : STM Branch",
+        "branchName": "BKK",
+        "cellPhoneNo": "01234567",
+        "emailAddress": "teurboy@yahoo.com",
+        "employeeNo": "10123",
+        "loginDate": "08/08/2023",
+        "userFirstName": "Boy",
+        "userLastName": "Teur",
+        "userStatusCode": "01:Active",
+        "userTypeCode": "02:Call Center Staff",
+        "workStatusCode": "01:Registered"
+      },
+      {
+        "no": "2",
+        "branchCode": "0009 : BKK Branch",
+        "branchName": "STM",
+        "cellPhoneNo": "01698431",
+        "emailAddress": "smubam@yahoo.com",
+        "employeeNo": "10124",
+        "loginDate": "08/08/2023",
+        "userFirstName": "Smu",
+        "userLastName": "Bam",
+        "userStatusCode": "01:Active",
+        "userTypeCode": "01:Regular Employee",
+        "workStatusCode": "02:Normal"
+      },
+      {
+        "no": "3",
+        "branchCode": "0009 : BKK Branch",
+        "branchName": "STM",
+        "cellPhoneNo": "01234567",
+        "emailAddress": "tragul@yahoo.com",
+        "loginDate": "08/08/2023",
+        "employeeNo": "10113",
+        "userFirstName": "Gul",
+        "userLastName": "Tra",
+        "userStatusCode": "02:Suspension",
+        "userTypeCode": "13:Temporary IT Dev Employee",
+        "workStatusCode": "01:Registered"
+      }
+    ]
+  }
+}

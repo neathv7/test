@@ -1,0 +1,45 @@
+{
+  "header": {
+    "result": true,
+    "error_code": "",
+    "error_text": "",
+    "trcode": "COM21000113",
+    "trcodeName": "Retrieve Internet Banking Configuration Limit List"
+  },
+  "body": {
+    "list": [
+      {
+          "transactionCurrencyCode": "KHR",
+          "limitCategoryCode": "01",
+          "maxDailyAmount": 400000000,
+          "maxTransactionAmount": 40000000,
+          "limitTypeCode": "01",
+          "minTransactionAmount": 100
+      },
+      {
+          "transactionCurrencyCode": "USD",
+          "limitCategoryCode": "01",
+          "maxDailyAmount": 230000,
+          "maxTransactionAmount": 56999,
+          "limitTypeCode": "01",
+          "minTransactionAmount": 10
+      },
+      {
+          "transactionCurrencyCode": "KHR",
+          "limitCategoryCode": "01",
+          "maxDailyAmount": 123000000,
+          "maxTransactionAmount": 89000000,
+          "limitTypeCode": "02",
+          "minTransactionAmount": 100
+      },
+      {
+          "transactionCurrencyCode": "USD",
+          "limitCategoryCode": "01",
+          "maxDailyAmount": 100000,
+          "maxTransactionAmount": 50000,
+          "limitTypeCode": "02",
+          "minTransactionAmount": 0.01
+      }
+  ]
+  }
+}

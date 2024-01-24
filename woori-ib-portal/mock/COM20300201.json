@@ -1,0 +1,42 @@
+{
+    "header": {
+      "error_code": "",
+      "error_text": "",
+      "id_token": "",
+      "info_text": "",
+      "login_session_id": "",
+      "message_version": "",
+      "result": true,
+      "trcode": "COM203002SC01"
+    },
+    "body": {
+          "no": "1",
+          "branchCode": "0010",
+          "branchCodeName": "STM Branch",
+          "userFirstName": "Teur",
+          "userLastName": "SreyDa",
+          "firstRegisterBranchCode": "000000",
+          "userStatusCode": "01",
+          "userStatusCodeName": "Active",
+          "employeeNo": "10123",
+          "cellPhoneNo": "01234567",
+          "workStatusCode": "01",
+          "workStatusCodeName": "Registered",
+          "loginDate": "08/08/2023",
+          "userTypeCode": "02",
+          "userTypeCodeName": "Call Center Staff",
+          "emailAddress": "teurboy@yahoo.com",
+          "view": "view",
+          "firstRegisterTellerID": "11010",
+          "firstRegisterTime": "09:56",
+          "firstRegisterDate": "30/01/2023",
+          "lastChangeBranchCode": "000000",
+          "lastChangeTellerID": "11010",
+          "lastChangeDate": "05/04/2023",
+          "lastChangeTime": "13:10",
+          "deletedTime": "16:50",
+          "deletedDate": "03/03/2023",
+          "deletedByTellerID": "11010",
+          "deletedByBranchCode": "000000"
+    }
+}

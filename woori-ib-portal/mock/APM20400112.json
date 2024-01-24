@@ -1,0 +1,309 @@
+{
+    "header": {
+        "result": true,
+        "error_code": "",
+        "error_text": "",
+        "trcode": "APM20200114",
+        "trcodeName": "APM20400112"
+    },
+    "body": {
+        "masterUserID": "nita188",
+        "companyName": "Toyota",
+        "masterUserName": "Da Nita",
+        "customerNo": "00012345678",
+        "authorizationCodeList": [
+            {
+                "authorizationBizTypeCode1": "02",
+                "authorizationLineStepList": [
+                    {
+                        "seqNo": 1,
+                        "approverID": "001",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "TaTa",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 2,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 3,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Chief Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100200"
+                    },
+                    {
+                        "seqNo": 4,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 5,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 6,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Chief Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100200"
+                    },
+                    {
+                        "seqNo": 7,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 8,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 9,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Chief Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100200"
+                    },
+                    {
+                        "seqNo": 10,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 11,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 12,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Chief Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100200"
+                    }
+                ],
+                "authorizationAuthorityTypeCode": "",
+                "authorizationBizTypeCode2": "0101",
+                "authorizationCodeName": "Loan Modify"
+            },
+            {
+                "authorizationBizTypeCode1": "02",
+                "authorizationLineStepList": [],
+                "authorizationAuthorityTypeCode": "",
+                "authorizationBizTypeCode2": "009",
+                "authorizationCodeName": "New Modify"
+            },
+            {
+                "authorizationBizTypeCode1": "03",
+                "authorizationLineStepList": [
+                    {
+                        "seqNo": 1,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 2,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 3,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Chief Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100200"
+                    },
+                    {
+                        "seqNo": 4,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 5,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 6,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Chief Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100200"
+                    },
+                    {
+                        "seqNo": 7,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 8,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 9,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Chief Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100200"
+                    },
+                    {
+                        "seqNo": 10,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 11,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 12,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 13,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 14,
+                        "approverID": "0202",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    },
+                    {
+                        "seqNo": 15,
+                        "approverID": "",
+                        "maxAmount": 100000,
+                        "currencyCode": "USD",
+                        "userRoleName": "Teller",
+                        "approverName": "",
+                        "minAmount": 0,
+                        "authorizationRoleCode": "100100"
+                    }
+                ],
+                "authorizationAuthorityTypeCode": "",
+                "authorizationBizTypeCode2": "0909",
+                "authorizationCodeName": "Loan Saving"
+            }
+        ]
+    }
+}

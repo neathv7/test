@@ -1,0 +1,1 @@
+{"version":3,"file":"css/371.7cf1e769.css","mappings":"AAAA,8BACI,qBACA","sources":["webpack://bizMOB4Vue/./src/shared/components/BreadCrumb/BreadCrumb.scss"],"sourcesContent":[".label:hover{\n    text-decoration: none;\n    cursor: auto;\n}"],"names":[],"sourceRoot":""}

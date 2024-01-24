@@ -1,0 +1,70 @@
+{
+	"header": {
+		"result": true,
+		"error_code": "",
+		"error_text": "",
+		"trcode": "COM21500311",
+		"trcodeName": "RetrieveIBScreenList"
+	},
+	"body": {
+		"list" : [ 
+			{
+				"businessCategoryCode": "11",
+				"screenTypeCode": "01",
+				"screenStatusCode": "01",
+				"screenID": "CIB201001SC00",
+				"businessCategoryValue": "Chhanel",
+				"screenName": "IB Subscription List"
+			},
+			{
+				"screenStatusCode" : "02",
+				"screenName" : "IB Subscription Register",
+				"screenID" : "CIB201002SC00",
+				"screenTypeCode" : "02",
+				"businessCategoryCode" : "11",
+				"businessCategoryValue": "Chhanel"
+			},
+			{
+				"screenStatusCode" : "01",
+				"screenName" : "Portal Screen List",
+				"screenID" : "COM204001SC00",
+				"screenTypeCode" : "01",
+				"businessCategoryCode" : "11",
+				"businessCategoryValue": "Chhanel"
+			},
+			{
+				"screenStatusCode" : "03",
+				"screenName" : "Portal Screen Register",
+				"screenID" : "COM204001SC01",
+				"screenTypeCode" : "01",
+				"businessCategoryCode" : "11",
+				"businessCategoryValue": "Chhanel"
+			},
+			{
+				"screenStatusCode" : "01",
+				"screenName" : "Configuration",
+				"screenID" : "COM210001SC00",
+				"screenTypeCode" : "01",
+				"businessCategoryCode" : "",
+				"businessCategoryValue": ""
+			},
+			{
+				"screenStatusCode" : "01",
+				"screenName" : "Limit Configuration",
+				"screenID" : "COM210001SC01",
+				"screenTypeCode" : "02",
+				"businessCategoryCode" : "",
+				"businessCategoryValue": ""
+			},
+			{
+				"screenStatusCode" : "01",
+				"screenName" : "Policy Configuration",
+				"screenID" : "COM220001SC00",
+				"screenTypeCode" : "01",
+				"businessCategoryCode" : "",
+				"businessCategoryValue": ""
+			}
+		],
+		"totalCount" : 7
+	}
+}

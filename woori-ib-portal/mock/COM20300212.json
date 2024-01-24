@@ -1,0 +1,37 @@
+{
+  "header": {
+    "error_code": "",
+    "error_text": "",
+    "id_token": "",
+    "info_text": "",
+    "login_session_id": "",
+    "message_version": "",
+    "result": true,
+    "trcode": "COM20300212",
+    "trcodeName": "employeeInfoInquiryDetail"
+  },
+  "body": {
+    "no": "1",
+    "branchCode": "0009",
+    "branchName": "",
+    "cellPhoneNo": "01234567",
+    "emailAddress": "teurboy@yahoo.com",
+    "employeeNo": "10123",
+    "loginDate": "08/08/2023",
+    "userFirstName": "Kaknika",
+    "userLastName": "Vann",
+    "userStatusCode": "01",
+    "userTypeCode": "02",
+    "workStatusCode": "01",
+    "firstRegisterBranchCode": "0101010",
+    "firstRegisterTellerID": "11011",
+    "firstRegisterTellerName": "MR.Kim BJ",
+    "firstRegisterDate": "20230516",
+    "firstRegisterTime": "12:00 PM",
+    "lastChangeBranchCode": "0011",
+    "lastChangeTellerID": "11100",
+    "lastChangeTellerName": "Admin Change",
+    "lastChangeDate": "20231010",
+    "lastChangeTime": "09:40 AM"
+  }
+}

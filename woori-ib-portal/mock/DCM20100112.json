@@ -1,0 +1,28 @@
+{
+    "header": {
+        "result": true,
+        "error_code": "",
+        "error_text": "",
+        "info_text": "",
+        "message_version": "",
+        "login_session_id": "",
+        "trcode": "DCM20100112"
+    },
+    "body": {
+        "internetBankingApprovalNo": 1990,
+        "receiverContactNo": "0222222222",
+        "receiverPositionTitle": "Dev",
+        "chequeQty": 10,
+        "chequeBookQty": 9,
+        "receiverIDNo": "01",
+        "receiverName": "test",
+        "receiverIDTypeCode": "01",
+        "remark": "",
+        "sourceOfFundAccountNo": "000006300029",
+        "feeAmount": 45.00,
+        "currencyCode": "KHR",
+        "workProgressStausCode": "02",
+        "visitBranchName": "Phsar Thmey",
+        "deliveryOptionDescription": "Pickup"
+    }
+}

@@ -1,0 +1,26 @@
+{
+	"header": {
+		"result": true,
+		"error_code": "",
+		"error_text": "",
+		"trcode": "COM21300112",
+		"trcodeName": "RetrieveIBMenuDetail",
+		"info_text": ""
+	},
+	"body": {
+		"menuID" : "Menu0001",
+		"menuName" : "My Page",
+		"menuLevel" : "1",
+		"menuDisplayOrder" : 0,
+		"menuStatusCode" : "01",
+		"parentMenuID" : "0",
+		"firstRegisterTellerID" : "11010",
+		"firstRegisterTellerName" : "KIM WB",
+		"firstRegisterDate" : "",
+		"firstRegisterTime" : "",
+		"lastChangeTellerID" : "11010",
+		"lastChangeTellerName" : "KIM WB",
+		"lastChangeDate" : "",
+		"lastChangeTime" : ""
+	}
+}
