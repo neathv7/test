@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkbizMOB4Vue"]=self["webpackChunkbizMOB4Vue"]||[]).push([[1876],{11876:function(e,n,u){function r(e,n){return null}u.r(n),u.d(n,{default:function(){return f}});var t=u(66252),c=(0,t.aZ)({}),a=u(83744);const s=(0,a.Z)(c,[["render",r],["__scopeId","data-v-3884ec26"]]);var f=s}}]);
-//# sourceMappingURL=1876.95b3dcae.js.map
