@@ -1,0 +1,56 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: node-application
+  labels:
+    app: node
+spec:
+  selector:
+    matchLabels:
+      app: node
+  template:
+  #replicas: 2
+    metadata:
+      labels:
+        app: node
+    spec:
+      containers:
+      - name: node-service
+        image: neathhhh/node-app:latest
+      imagePullSecret:
+      - name: docker
+        resources:
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 8080
+
+--- #Service #
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: node-service
+spec:
+  selector:
+    app: node
+  ports:
+    - protocol: TCP
+      port: 8080
+      targetPort: 8080
+
+--- # Route #
+apiVersion: route.openshift.io/v1
+kind: Route
+metadata:
+  name: node-service
+spec:
+  to:
+    kind: Service
+    name: node-service
+    weight: 100
+    ports:
+      targetPort: 8080
+    tls:
+      termination: edge
