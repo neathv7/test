@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: node-service
-        image: neathhhh/node-app:latest
+        image: neathhhh/hello-world:latest
       imagePullSecret:
       - name: docker
         resources:
